@@ -20,11 +20,11 @@ This program provides several functionalities to manage directories:
 
 ## Screen Shorts
 
-![Screenshot 1](screen_shorts\Screenshot 2024-05-04 162648.png " Screenshot 1")
+![Screenshot 1](screen_shorts/Screenshot 2024-05-04 162648.png " Screenshot 1")
 
-![Screenshot 2](screen_shorts\Screenshot 2024-05-04 162709.png "Screenshot 2")
+![Screenshot 2](screen_shorts/Screenshot 2024-05-04 162709.png "Screenshot 2")
 
-![Screenshot 3](screen_shorts\Screenshot 2024-05-04 162733.png "Screenshot 3")
+![Screenshot 3](screen_shorts/Screenshot 2024-05-04 162733.png "Screenshot 3")
 
 ## Installation
 
